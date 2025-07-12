@@ -1,0 +1,3 @@
+[submodule "FASTAPI_PROJECTS"]
+	path = FASTAPI_PROJECTS
+	url = https://github.com/kira23j/FastAPI
