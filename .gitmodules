@@ -1,3 +1,6 @@
 [submodule "FASTAPI_PROJECTS"]
 	path = FASTAPI_PROJECTS
 	url = https://github.com/kira23j/FastAPI
+[submodule "FASTAPI-REACT.JS_PROJECTS"]
+	path = FASTAPI-REACT.JS_PROJECTS
+	url = https://github.com/kira23j/FastReactX
